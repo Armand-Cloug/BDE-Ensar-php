@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Pages publiques -->
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=presentation</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=ecole</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=actualite</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=contact</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=page_login</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=page_register</loc>
+  </url>
+
+  <!-- Mentions légales -->
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=mention/mentions</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=mention/donnees</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=mention/accessibilite</loc>
+  </url>
+  <url>
+    <loc>https://dev.bde-ensar.cloug.fr/index.php?page=mention/plan</loc>
+  </url>
+
+</urlset>

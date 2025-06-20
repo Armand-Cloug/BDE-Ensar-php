@@ -1,0 +1,40 @@
+/* Fond général noir + texte clair */
+body {
+    background-color: #000000;
+    color: #f0f0f0;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 1rem;
+}
+
+/* Liens */
+a {
+    color: #66ccff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Titres */
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+/* Formulaires simples */
+input, button, select, textarea {
+    background-color: #222;
+    color: #f0f0f0;
+    border: 1px solid #555;
+    padding: 0.5rem;
+    margin: 0.2rem 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+form {
+    margin-top: 1rem;
+    max-width: 400px;
+}
