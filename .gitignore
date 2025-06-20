@@ -3,3 +3,4 @@
 /database/bde*
 /logs/*
 /dumps/*
+/vendor
